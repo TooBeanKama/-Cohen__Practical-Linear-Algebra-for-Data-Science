@@ -9,6 +9,8 @@
 ### From Core Concepts to Applications Using Python
 #### Mike X Cohen
 
+https://github.com/mikexcohen/LinAlg4DataScience
+
 # 01. Введение
 + Что такое линейная алгебра и зачем ее изучать?
 + Об этой книге
